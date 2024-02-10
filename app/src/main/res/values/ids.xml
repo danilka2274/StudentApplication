@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="navigation_view" type="id" />
+    <item name="classes" type="id" />
+    <item name="home_icon" type="id" />
+    <item name="home_title" type="id" />
+    <item name="list" type="id" />
+    <item name="classes_icon" type="id" />
+    <item name="favourite" type="id" />
+    <item name="list_icon" type="id" />
+    <item name="list_title" type="id" />
+    <item name="favourite_icon" type="id" />
+    <item name="favourite_title" type="id" />
+    <item name="card_title" type="id" />
+    <item name="day_first" type="id" />
+    <item name="card_minute" type="id" />
+    <item name="day_second" type="id" />
+    <item name="separator_first" type="id" />
+    <item name="hour_first" type="id" />
+    <item name="hour_second" type="id" />
+    <item name="separator_second" type="id" />
+    <item name="minute_first" type="id" />
+    <item name="minute_second" type="id" />
+    <item name="card_day" type="id" />
+    <item name="card_hours" type="id" />
+    <item name="count_lesson" type="id" />
+    <item name="homework" type="id" />
+    <item name="rv_homework" type="id" />
+</resources>
